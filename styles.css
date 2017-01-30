@@ -1,7 +1,22 @@
 body{
-	background-color: #1D1D1D;
+	background-color: lightcoral;
 	padding: 30px;
 	margin: 0px;
+}
+
+h1{
+	text-align: center;
+	font-family: century gothic;
+}
+#snowbank{
+	background-color: white;
+	border-radius: 30%;
+}
+
+#snowground{
+	height: 15%;
+	width: 100%;
+	background-color: white;
 }
 
 #snowflakeContainer{
